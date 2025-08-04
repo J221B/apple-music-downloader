@@ -1,4 +1,4 @@
-media-user-token: "your-media-user-token" #If you need to obtain lyrics and aac-lc, need to change it
+media-user-token: "Aqz5qb7XBokhSjhQ9etWc9jltBQhyzM1RAYY5dnTELJXFJ1JTwjgFVW10hIWm33B2EtJCGOG6fiHZhdfy4waOcPSb5nK85ZpxaV/4PCzOy0eYkKto2E0MIdWChqNnyQ8Rz545O8QRhpPo6GuGG4E6hsgwxd3V4It1Yd/FDk/gh631cMmQc6N4EazqpjidTutjZA+gIhV9HaiR34mhHQiQjg1dSygQr6JKaSDWl7l423E5jD3Yg==" #If you need to obtain lyrics and aac-lc, need to change it
 authorization-token: "your-authorization-token" #You don't need to change it; it can automatically obtain token
 language: ""         #supportedLanguage by each storefront --> https://gist.github.com/itouakirai/c8ba9df9dc65bd300094103b058731d0
 lrc-type: "lyrics"   #lyrics or syllable-lyrics
