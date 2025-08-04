@@ -11,8 +11,8 @@ emby-animated-artwork: false    # If enabled, requires ffmpeg
 embed-cover: true
 cover-size: 5000x5000
 cover-format: jpg       #jpg png or original
-alac-save-folder: /content/gdrive/MyDrive/ALAC/
-atmos-save-folder: /content/gdrive/MyDrive/ALAC/
+alac-save-folder: /content/drive/MyDrive/ALAC/
+atmos-save-folder: /content/drive/MyDrive/ALAC/
 aac-save-folder: AM-DL-AAC downloads
 max-memory-limit: 256 # MB
 decrypt-m3u8-port: "127.0.0.1:10020"
