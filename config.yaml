@@ -6,7 +6,7 @@ lrc-format: "lrc"   #lrc or ttml
 embed-lrc: true
 save-lrc-file: false
 save-artist-cover: false
-save-animated-artwork: false    # If enabled, requires ffmpeg
+save-animated-artwork: true    # If enabled, requires ffmpeg
 emby-animated-artwork: false    # If enabled, requires ffmpeg
 embed-cover: true
 cover-size: 5000x5000
